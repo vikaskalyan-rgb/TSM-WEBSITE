@@ -12,7 +12,7 @@ function EmpNav() {
         <div className='nav-link'>
             <ul>
                 <li><b><a href='/feedback'>  Feedback</a></b></li>
-                <li><b><a href="/">LogOut</a></b></li>
+                <li><b><a href="/emplog">LogOut</a></b></li>
             </ul>
         </div>
     </div>
