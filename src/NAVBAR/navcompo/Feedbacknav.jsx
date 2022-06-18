@@ -15,7 +15,8 @@ function FeedNav() {
         </div>
         <div className='nav-link'>
             <ul>
-                <li><b><a href="/">LogOut</a></b></li>
+              <li><b><a href='/'>HOME</a></b></li>
+                <li><b><a href="/emplog">LogOut</a></b></li>
             </ul>
         </div>
     </div>
